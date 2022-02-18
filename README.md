@@ -18,6 +18,9 @@
 <hr>
 <br>
 ## Stats
+<br>
+<hr>
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elliott2100&show_icons=true)  
 <br>
 <hr>
