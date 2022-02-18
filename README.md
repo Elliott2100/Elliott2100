@@ -15,10 +15,10 @@
 <img align="left" alt="Visual Studio Code" width="26px"/>
 <img align="left" alt="Visual Studio Code" width="26px"/>  -->
 <br>
+## Stats
+<br>
 <hr>
 <br>
-## Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elliott2100&show_icons=true)  
 <br>
 <hr>
