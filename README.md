@@ -16,12 +16,10 @@
 <img align="left" alt="Visual Studio Code" width="26px"/>  -->
 
 ### Stats📈
-
 <br>
 <hr>
 <br>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elliott2100&show_icons=true&theme=onedark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elliott2100&show_icons=true&theme=merko)  
 
 
