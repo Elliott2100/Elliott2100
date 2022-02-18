@@ -15,7 +15,7 @@
 <img align="left" alt="Visual Studio Code" width="26px"/>
 <img align="left" alt="Visual Studio Code" width="26px"/>  -->
 <br>
-## Stats
+##Stats
 <br>
 <hr>
 <br>
