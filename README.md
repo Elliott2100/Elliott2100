@@ -17,15 +17,12 @@
 <br>
 <hr>
 <br>
-## Stats
-<br>
-<hr>
-<br>
+##Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elliott2100&show_icons=true)  
 <br>
 <hr>
 <br>
-## Streaks
+##Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=elliott2100)  
 <br>
 <hr>
