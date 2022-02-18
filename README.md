@@ -13,7 +13,17 @@
 <img align="left" alt="Visual Studio Code" width="26px"/>
 <img align="left" alt="Visual Studio Code" width="26px"/>
 <img align="left" alt="Visual Studio Code" width="26px"/>
-<img align="left" alt="Visual Studio Code" width="26px"/> -->
-<!-- <br>
+<img align="left" alt="Visual Studio Code" width="26px"/>  -->
+<br>
 <hr>
-<br> -->
+<br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elliott2100)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elliott2100&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=elliott2100)  
+
+<br>
+<hr>
+<br>
