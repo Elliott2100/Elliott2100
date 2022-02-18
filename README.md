@@ -17,4 +17,3 @@
 <!-- <br>
 <hr>
 <br> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliott2100)](https://github.com/anuraghazra/github-readme-stats)
