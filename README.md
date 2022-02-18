@@ -9,15 +9,12 @@
 <br>
 <hr>
 <br>
-<img align="left" alt="Visual Studio Code" width="26px" />
+<!-- <img align="left" alt="Visual Studio Code" width="26px" />
 <img align="left" alt="Visual Studio Code" width="26px"/>
 <img align="left" alt="Visual Studio Code" width="26px"/>
 <img align="left" alt="Visual Studio Code" width="26px"/>
-<img align="left" alt="Visual Studio Code" width="26px"/>
-<br>
+<img align="left" alt="Visual Studio Code" width="26px"/> -->
+<!-- <br>
 <hr>
-<br>
-<details>
-  <summary>My Stats📈</>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliott2100)](https://github.com/anuraghazra/github-readme-stats)
-  <details/>
+<br> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliott2100)](https://github.com/anuraghazra/github-readme-stats)
