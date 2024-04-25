@@ -8,7 +8,7 @@
 - 🥅 Goals: Develop my skills and contribute to more open source projects
 
 ### Languages & Tools 🛠
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,c,c#,go,spring,git,ansible,bash,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,c,cs,go,spring,git,ansible,bash,mongodb&theme=dark)](https://skillicons.dev)
 
 ### Github Stats📈
 <hr>
